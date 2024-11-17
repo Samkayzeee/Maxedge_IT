@@ -16,7 +16,7 @@ const Home = () => {
 
 
             <div className='my-8 flex items-center'>
-                <input type="text" placeholder="Enter Your Email Here" className="input input-bordered w-full bg-transparent max-w-xs" />
+                <input type="text" placeholder="Enter Your Email Here" className="input input-bordered w-full bg-transparent max-w-xs border-black" />
                 <button className='btn text-white ms-4 bg-gradient-to-t from-black to-gray-300 border-none'>Join Wishlist</button>
             </div>
 

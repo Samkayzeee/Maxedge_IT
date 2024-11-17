@@ -19,7 +19,7 @@ const Navbar = () => {
     
             <div className="navbar fixed top-10 w-5/6 rounded-md bg-gray-500/30 backdrop-blur-xl">
   <div className="flex-1">
-    <a className="btn btn-ghost text-xl">Logo.</a>
+    <a className="btn btn-ghost text-xl text-gray-600">Logo.</a>
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
